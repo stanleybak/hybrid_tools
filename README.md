@@ -1,5 +1,5 @@
-# hybrid_tools
-A collection of free hybrid systems tools, for use with automated testing and such in case the original web links move or go down. The versions of the tools come from the following sources:
+# Hybrid Tools
+A collection of free hybrid systems verification tools, for use with automated testing and such in case the original web links move or go down. The versions of the tools come from the following sources:
 
 * SpaceEx (Licence: GPL v3) - http://spaceex.imag.fr/download-6
 * Flow* (License: GPL) - https://flowstar.org/dowloads/
